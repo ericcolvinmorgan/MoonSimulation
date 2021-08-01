@@ -1,0 +1,4 @@
+
+ERROR: 0:77: 'assign' :  cannot convert from '3-component vector of highp float' to 'FragColor 4-component vector of mediump float'
+
+
